@@ -6,7 +6,10 @@ First Project in the OPS200 * Module @ San Diego Code School
 #Modified by Travis Ripley, * Started Friday April 19th, 2019 10:00am.
 ## You don't got to love it, because the hood's gon' love it. 
 
-
+The more we get together
+Together, together
+The more we get together
+The happier we'll be
 
 ## Prerequisites
 
