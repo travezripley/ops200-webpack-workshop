@@ -11,6 +11,6 @@ app.use(morgan('dev'));
 app.use(express.static(publicDir));
 app.use(express.static(distDir));
 
-app.listen(3000, function () {
-  console.log('server running at http://localhost:3000');
-});
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, () => console.log(`server running at http://localhost:${PORT}`));
