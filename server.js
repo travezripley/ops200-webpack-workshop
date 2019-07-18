@@ -7,10 +7,11 @@ const app = express();
 const publicDir = path.join(__dirname, 'public');
 const distDir = path.join(__dirname, 'dist');
 
+const PORT = process.env.PORT || 3000;
+
 app.use(morgan('dev'));
 app.use(express.static(publicDir));
 app.use(express.static(distDir));
 
-const PORT = process.env.PORT || 3000;
 
-app.listen(PORT, () => console.log(`server running at http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`the server running at http://localhost:${PORT}`));
