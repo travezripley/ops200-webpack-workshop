@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/OriginCodeAcademy/startnow-ops200-webpack-workshop#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel": "^6.3.26",
     "babel-preset-airbnb": "^1.0.1",
     "babel-register": "^6.4.3",
