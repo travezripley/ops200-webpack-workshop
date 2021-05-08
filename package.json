@@ -30,7 +30,7 @@
     "express": "^4.15.4",
     "jquery": "^3.3.1",
     "json-loader": "^0.5.4",
-    "lodash": "^4.15.0",
+    "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.10.2",
     "morgan": "^1.8.2",
     "nightmare": "^3.0.1",
