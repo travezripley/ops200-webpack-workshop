@@ -39,7 +39,7 @@
     "react-dom": "^15.6.2",
     "serve-favicon": "^2.0.1",
     "webpack": "^4.8.3",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "axios-mock-adapter": "^1.6.1",
